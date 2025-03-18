@@ -364,3 +364,10 @@
       Dragon Breath.
   - balance: Dragon's armor gain while using Dragon Breath has been decreased from
       15 to 10.
+2025-03-18:
+  TiviPlus:
+  - bugfix: fixed some UI and 516 issues
+  tyeagg:
+  - rscadd: more seamless looking blood decals
+  - rscadd: different crosshairs for some guns
+  - imageadd: new crosshair sprites for guns
